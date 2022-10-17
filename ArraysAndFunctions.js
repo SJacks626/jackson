@@ -1,10 +1,14 @@
+https://playcode.io/javascript
 let array1 = [1, 5, 6, 9, 10, 14];
 
 // print the 3rd element in array1
+console.log(array1[2])
 
 // print the last element in array1
+console.log(array1[5])
 
 // add 16 and 3 to array1
+
 
 // sort the array, then print the 3rd element again
 // did it change?
